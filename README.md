@@ -1,1 +1,3 @@
-# react_tutorial
+# ReactJS tutorial
+
+https://reactjs.org/tutorial/tutorial.html
